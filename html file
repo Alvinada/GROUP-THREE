@@ -22,3 +22,13 @@
             </ul>
         </nav>
     </header>
+<section id="home" class="hero">
+        <div class="hero-content">
+            <h1>Protect. Empower. Support.</h1>
+            <p>Advocating for the rights of teen parents to build a better, equal future.</p>
+            <div class="hero-btns">
+                <a href="#about" class="btn-primary">Learn More</a>
+                <a href="#services" class="btn-secondary">Get Support</a>
+            </div>
+        </div>
+    </section>
