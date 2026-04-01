@@ -62,3 +62,16 @@
             </ul>
         </div>
     </section>
+ <section id="donations" class="container">
+        <div class="donation-box">
+            <h2>Make an Impact</h2>
+            <p>Your contribution helps us provide legal aid, education, and counseling to young mothers and fathers (ages 14 to 25).</p>
+            <div class="donation-options">
+                <button class="amt-btn">$10</button>
+                <button class="amt-btn">$25</button>
+                <button class="amt-btn">$50</button>
+                <input type="number" placeholder="Custom Amount">
+            </div>
+            <button class="btn-primary large">Proceed to Donate</button>
+        </div>
+    </section>
