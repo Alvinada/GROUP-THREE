@@ -48,3 +48,17 @@
             </div>
         </div>
     </section>
+ <section id="services" class="bg-light">
+        <div class="container">
+            <div class="section-title">
+                <h2>Why We Exist</h2>
+                <p>Addressing the critical challenges faced by teen parents.</p>
+            </div>
+            <ul class="problem-list">
+                <li><strong>Rights Education:</strong> Breaking the cycle of stigma and discrimination.</li>
+                <li><strong>Safe Reporting:</strong> Providing a confidential platform for domestic violence issues.</li>
+                <li><strong>Financial & Health:</strong> Bridging the gap in counseling and healthcare access.</li>
+                <li><strong>Community:</strong> Connecting social workers and legal aid to those in need.</li>
+            </ul>
+        </div>
+    </section>
