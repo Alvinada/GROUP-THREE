@@ -32,3 +32,19 @@
             </div>
         </div>
     </section>
+<section id="about" class="container">
+        <div class="section-title">
+            <h2>Our Mission & Vision</h2>
+            <hr>
+        </div>
+        <div class="grid">
+            <div class="card">
+                <h3>Our Mission</h3>
+                <p>To protect and support teen parents below 18 through human rights advocacy, education, counseling, and community support programs.</p>
+            </div>
+            <div class="card">
+                <h3>Our Vision</h3>
+                <p>A society where every young parent is empowered, protected, and given equal opportunities to build a brighter future.</p>
+            </div>
+        </div>
+    </section>
