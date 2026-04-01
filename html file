@@ -75,3 +75,13 @@
             <button class="btn-primary large">Proceed to Donate</button>
         </div>
     </section>
+
+    <footer>
+        <p>&copy; 2026 Safe Haven Rights Organization (SHRO). All Rights Reserved.</p>
+        <div class="social-icons">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+        </div>
+
+    </footer>
