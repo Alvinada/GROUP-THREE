@@ -1,4 +1,4 @@
-# SAFE HAVEN RIGHTS ORGANISATION 🛡️
+# SAFE HAVEN RIGHTS ORGANISATION 
 
 ## Project Overview
 This website addresses the lack of awareness and access to **Human Rights information** among young parents. Our platform directs users on how to access:
