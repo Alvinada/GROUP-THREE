@@ -8,7 +8,7 @@ This website addresses the lack of awareness and access to **Human Rights inform
 
 ---
 
-## 🛠️ Technical Implementation
+##  Technical Implementation
 The project is built using **HTML5** and managed via **GitHub** for version control.
 *   **Semantic Navigation**: Used `<ul>` (unordered lists) and `<li>` (list items) to create a structured menu.
 *   **Hypertext References**: Used `<a href>` tags to create clickable links for seamless navigation between pages.
@@ -16,7 +16,7 @@ The project is built using **HTML5** and managed via **GitHub** for version cont
 
 ---
 
-## 👥 Individual Contribution (Group 3)
+##  Individual Contribution (Group 3)
 **Lead Developer:** **NAKALYOWA ALVIN ADA** (ID: 268-911)
 
 **My Contributions:**
