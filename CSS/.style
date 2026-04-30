@@ -1,7 +1,0 @@
-.one:hover {
-    background-color: #1a365d;
-}
-.btn-donate:hover {
-    color: rgb(36, 33, 33) !important;
-    background-color: #e4d299;
-}
